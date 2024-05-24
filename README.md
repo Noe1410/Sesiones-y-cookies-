@@ -2,7 +2,7 @@
 Este pequeño programa es una pequeña web echa con jsp y java sobre la adición y eliminación de estilográficos al un carrito
 
 ## Vista del catalogo en **Español**  
-![Imagen]([markdownSesionesCookies/img/catalogoes.png](https://github.com/Noe1410/Sesiones-y-cookies-/blob/main/markdonwSesionesCookies/img/cataloges.png))  
+![Imagen](markdonwSesionesCookies/img/elementoeliminado.png)  
 
 
 ## Vista del catalogo en **Ingles**  
